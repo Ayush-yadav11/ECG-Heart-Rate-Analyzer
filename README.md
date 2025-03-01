@@ -49,6 +49,9 @@ This project is an ECG Heart Rate Analyzer that allows users to load ECG data fr
 
 5. Click the "Help" button to display help information.
 
-## File Structure
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
 
  
