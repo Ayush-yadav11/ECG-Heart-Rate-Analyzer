@@ -1,3 +1,5 @@
+#THIS FILE CHANGE THE CSV FILE TO ONLY HAVE THE ECG SIGNAL REMOVING EXTRA DETAILS
+
 import pandas as pd
 
 # Load the original CSV file
